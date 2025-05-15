@@ -17,13 +17,13 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 
 ## 📄 View My Resume
 
-<iframe src="_projects/MechResumeUpload.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://drive.google.com/file/d/17bkGMamfIFcSDadu5ZBGtZHH0vn5d37J/preview" width="200%" height="600px" style="border:none;"></iframe>
 
 ---
 
 ## 🤖 View My Mechatronics Final Project
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvw4qg7bMQG_s1bnBtjleSoyaq9mFU_xAzV1zHQZ_92VLrrhuW35Rjgp0P1lbhUxGkSfnDLHuntKn-/pub?embedded=true" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvw4qg7bMQG_s1bnBtjleSoyaq9mFU_xAzV1zHQZ_92VLrrhuW35Rjgp0P1lbhUxGkSfnDLHuntKn-/pub?embedded=true" width="200%" height="600px" style="border:none;"></iframe>
 
 ---
 
