@@ -5,7 +5,7 @@ title: Alex Jenkins
 
 ## About Me
 
-<img src="/spring-2025-portfolio-Amj224/_projects/ProfilePhoto.JPG" alt="Profile Picture" style="width:200px; border-radius:10px;" />
+<img src="_projects/ProfilePhoto.JPG" alt="Profile Picture" style="width:200px; border-radius:10px;" />
 
 My name is Alex Jenkins,
 
@@ -17,7 +17,7 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 
 ## 📄 View My Resume
 
-<iframe src="/spring-2025-portfolio-Amj224/_projects/MechResumeUpload.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="_projects/MechResumeUpload.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 ---
 
