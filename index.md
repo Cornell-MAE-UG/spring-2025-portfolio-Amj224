@@ -5,7 +5,9 @@ title: Alex Jenkins
 
 ## About Me
 
-<img src="_projects/ProfilePhoto.JPG" alt="Profile Picture" style="width:200px; border-radius:10px;" />
+<iframe src="https://drive.google.com/file/d/1aHTx99DMBE7vandcKv1oCWEwGulrrBrG/preview" width="100%" height="600px" style="border:none;"></iframe>
+
+
 
 My name is Alex Jenkins,
 
@@ -17,7 +19,7 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 
 ## 📄 View My Resume
 
-<iframe src="https://drive.google.com/file/d/17bkGMamfIFcSDadu5ZBGtZHH0vn5d37J/preview" width="200%" height="600px" style="border:none;"></iframe>
+<iframe src="https://drive.google.com/file/d/17bkGMamfIFcSDadu5ZBGtZHH0vn5d37J/preview" width="100%" height="800px" style="border:none;"></iframe>
 
 ---
 
