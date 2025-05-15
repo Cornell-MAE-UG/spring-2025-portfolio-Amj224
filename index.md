@@ -5,7 +5,7 @@ title: Alex Jenkins
 
 ## About Me
 
-<iframe src="https://drive.google.com/file/d/1aHTx99DMBE7vandcKv1oCWEwGulrrBrG/preview" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1aHTx99DMBE7vandcKv1oCWEwGulrrBrG/preview" width="30%" height="200px" style="border:none;"></iframe>
 
 
 
