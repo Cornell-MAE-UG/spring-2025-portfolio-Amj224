@@ -6,7 +6,7 @@ title: Alex Jenkins
 ## About Me
 
 
-<img src="/spring-2025-portfolio-Amj224/_projects/ProfilePhoto.JPG" alt="Profile Picture" style="width:200px; border-radius:10px;" />
+<img src="/_projects/ProfilePhoto.JPG" alt="Profile Picture" style="width:200px; border-radius:10px;" />
 
 
  
