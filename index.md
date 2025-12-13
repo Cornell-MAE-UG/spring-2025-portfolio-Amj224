@@ -27,7 +27,7 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 
 ## 🤖 View My Mechatronics Final Project
 
-<a href="_projects/Mechatronics/overview.html">
+<a href="{{ '/mechatronics-final/' | relative_url }}">
   <img src="_projects/Mechatronics/MechTitle.png"
        alt="View My Mechatronics Final Project", width="50%">
 </a>
