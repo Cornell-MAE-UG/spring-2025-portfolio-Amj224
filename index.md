@@ -25,19 +25,24 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 
 
 
-
-
 ## 🤖 View My Mechatronics Final Project
-
 
 <a href="_projects/Mechatronics/overview.html">
   <img src="_projects/Mechatronics/MechTitle.png"
-       alt="View My Mechatronics Final Project"
-       style="width: 300px; height: auto; cursor: pointer;"
-    >
+       alt="View My Mechatronics Final Project", width="50%">
 </a>
 
+## MAE 4272 Final Wind turbine Project
+<a href="_projects/_MAE 4272/labPage.html">
+  <img src="_projects/_MAE 4272/photos/ProjectTitle.png"
+       alt="View My 4272 report", width="50%">
+</a>
 
+## MAE 4300 Boeing 737 Max
+<a href="_projects/_MAE4300/mae_4300_boeing_737_max_holistic_analysis.html">
+  <img src="_projects/_MAE4300/Boeing737Max.jpg"
+       alt="View My 4300 report", width="50%">
+</a>
 
 ---
 
