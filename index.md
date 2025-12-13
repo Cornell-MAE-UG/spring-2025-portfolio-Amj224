@@ -33,7 +33,8 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 <a href="/_projects/Mechatronics/overview.html">
   <img src="/_projects/Mechatronics/MechTitle.png"
        alt="View My Mechatronics Final Project"
-       style="max-width: 600px; cursor: pointer;">
+       style="width: 300px; height: auto; cursor: pointer;"
+    >
 </a>
 
 
