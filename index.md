@@ -30,8 +30,8 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 ## 🤖 View My Mechatronics Final Project
 
 
-<a href="/portfolio/mechatronics-final.html">
-  <img src="images/mechatronics-thumbnail.png"
+<a href="/_projects/Mechatronics/overview.html">
+  <img src="/_projects/Mechatronics/MechTitle.png"
        alt="View My Mechatronics Final Project"
        style="max-width: 600px; cursor: pointer;">
 </a>
