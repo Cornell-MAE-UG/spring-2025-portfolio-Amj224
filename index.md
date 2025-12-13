@@ -30,18 +30,14 @@ Some non-technical things about me: I love to read, I'm an F1 fan, and I've been
 ## 🤖 View My Mechatronics Final Project
 
 
-<a href="/_projects/Mechatronics/overview.html">
-  <img src="/_projects/Mechatronics/MechTitle.png"
+<a href="_projects/Mechatronics/overview.html">
+  <img src="_projects/Mechatronics/MechTitle.png"
        alt="View My Mechatronics Final Project"
        style="width: 300px; height: auto; cursor: pointer;"
     >
 </a>
 
 
-
-
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvw4qg7bMQG_s1bnBtjleSoyaq9mFU_xAzV1zHQZ_92VLrrhuW35Rjgp0P1lbhUxGkSfnDLHuntKn-/pub?embedded=true" width="250%" height="600px" style="border:none;"></iframe>
 
 ---
 
